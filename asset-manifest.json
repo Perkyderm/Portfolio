@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.588157dc.chunk.css",
+    "main.js": "/Portfolio/static/js/main.03106be5.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.03106be5.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.60245977.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.60245977.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bcf83a41.chunk.js": "/Portfolio/static/js/2.bcf83a41.chunk.js",
+    "static/js/2.bcf83a41.chunk.js.map": "/Portfolio/static/js/2.bcf83a41.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.588157dc.chunk.css.map": "/Portfolio/static/css/main.588157dc.chunk.css.map",
+    "static/js/2.bcf83a41.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bcf83a41.chunk.js.LICENSE.txt",
+    "static/media/Adventureops.4f1451af.PNG": "/Portfolio/static/media/Adventureops.4f1451af.PNG",
+    "static/media/BeachScram.149d9430.jpg": "/Portfolio/static/media/BeachScram.149d9430.jpg",
+    "static/media/Tacos.c631fc2a.png": "/Portfolio/static/media/Tacos.c631fc2a.png",
+    "static/media/Toolsimg.fcf755ff.png": "/Portfolio/static/media/Toolsimg.fcf755ff.png",
+    "static/media/Weather.9ae111c2.png": "/Portfolio/static/media/Weather.9ae111c2.png",
+    "static/media/climbsilo.9b99101a.png": "/Portfolio/static/media/climbsilo.9b99101a.png",
+    "static/media/logo.16db183d.svg": "/Portfolio/static/media/logo.16db183d.svg",
+    "static/media/me.955defde.jpg": "/Portfolio/static/media/me.955defde.jpg",
+    "static/media/note-taker.9c5099c1.png": "/Portfolio/static/media/note-taker.9c5099c1.png",
+    "static/media/timedquizss.2c48c408.png": "/Portfolio/static/media/timedquizss.2c48c408.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60245977.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bcf83a41.chunk.js",
+    "static/css/main.588157dc.chunk.css",
+    "static/js/main.03106be5.chunk.js"
+  ]
+}
